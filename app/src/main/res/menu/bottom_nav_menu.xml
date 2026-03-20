@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bottom_home"
+        android:icon="@drawable/ic_home"
+        android:title="@string/home" />
+
+    <item
+        android:id="@+id/bottom_live"
+        android:icon="@drawable/ic_live"
+        android:title="@string/live" />
+
+    <item
+        android:id="@+id/bottom_whatsapp"
+        android:icon="@drawable/ic_whatsapp"
+        android:title="@string/whatsapp" />
+
+    <item
+        android:id="@+id/bottom_notifications"
+        android:icon="@drawable/ic_notification"
+        android:title="@string/notifications" />
+
+</menu>
